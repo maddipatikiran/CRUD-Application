@@ -1,3 +1,2 @@
 ## kiran
-#iot
-this is for automatic garden watering system
+# CRUD application using MEAN stack
